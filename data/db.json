@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "ec7b",
+      "cityName": "Mytilene",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2024-10-10T10:00:33.453Z",
+      "notes": "",
+      "position": {
+        "lat": "39.09383130692365",
+        "lng": "26.559452131151094"
+      }
+    },
+    {
+      "id": "8b47",
+      "cityName": "Thessaloniki",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2024-09-29T10:00:45.000Z",
+      "notes": "",
+      "position": {
+        "lat": "40.63688312646408",
+        "lng": "22.94222912065827"
+      }
+    },
+    {
+      "id": "9c2c",
+      "cityName": "Brussels",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2024-09-01T10:01:08.000Z",
+      "notes": "",
+      "position": {
+        "lat": "50.84106942862877",
+        "lng": "4.352652618851933"
+      }
+    },
+    {
+      "id": "9585",
+      "cityName": "Mexico City",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-06-30T10:01:44.000Z",
+      "notes": "",
+      "position": {
+        "lat": "19.38370463414803",
+        "lng": "-99.10758987506122"
+      }
+    }
+  ]
+}
